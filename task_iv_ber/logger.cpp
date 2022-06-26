@@ -1,6 +1,6 @@
 #include "pch.h"
 
-std::fstream logFile; //handler for log file
+std::fstream logFile; 
 
 void openLog(std::string fileName)
 {
